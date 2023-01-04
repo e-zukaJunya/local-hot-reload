@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "start": "reload -b -d src -w src"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "reload": "^3.2.1"
   }
 }
