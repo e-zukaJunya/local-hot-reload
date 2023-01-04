@@ -1,0 +1,11 @@
+{
+  "name": "local-hot-reload",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
